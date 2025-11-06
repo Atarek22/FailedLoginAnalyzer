@@ -1,6 +1,6 @@
 # FailedLoginAnalyzer 🔍
 
-A simple, beginner-friendly Python tool to parse `auth.log` files and detect failed SSH login attempts. This README walks through the project step-by-step with screenshots, so you can reproduce the build and showcase it on your GitHub / CV. 🚀
+A simple, beginner-friendly Python tool to parse `auth.log` files and detect failed SSH login attempts.
 
 ---
 
